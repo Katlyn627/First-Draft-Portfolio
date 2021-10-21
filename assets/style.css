@@ -50,7 +50,7 @@
   
   /* Header Image Style */
   .main-image {
-    background-image: url("../images/header-image.png");
+    background-image: url("./images/header-image.png");
     background-repeat: no-repeat;
     position: relative;
     background-size: cover;
